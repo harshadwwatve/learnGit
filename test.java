@@ -7,6 +7,7 @@ public class print
 			System.out.println("print 2");
 			System.out.println("print 3");
 			System.out.println("print 4");
+			System.out.println("print 5");
 	}
 
 }
